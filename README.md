@@ -4,4 +4,4 @@
 </p>
 
 ---
-<div align="center">I'm a Java programmer that :love: to make plugins!. You can check out some of my works above!</div>
+<div align="center">I'm a Java programmer that 💕 to make plugins!. You can check out some of my works above!</div>
