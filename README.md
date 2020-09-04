@@ -15,3 +15,6 @@ I'm a Java programmer that 💕 to make plugins!. You can check out some of my w
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droreo002&repo=oreocore" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droreo002&repo=growtopiabot" />
+</a>
