@@ -6,8 +6,8 @@
 ---
 <div align="center">
   I'm a Java programmer that 💕 to make plugins!. You can check out some of my works above!.<br>
-  <h1>Statistic</h1>
+  <h2>My Statistic</h2>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=droreo002&show_icons=true" />
 </a>
