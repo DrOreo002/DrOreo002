@@ -5,3 +5,5 @@
 
 ---
 <div align="center">I'm a Java programmer that 💕 to make plugins!. You can check out some of my works above!</div>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=droreo002&show_icons=true)
