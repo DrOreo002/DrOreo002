@@ -5,8 +5,9 @@
 
 ---
 <div align="center">
-  I'm a Java programmer that 💕 to make plugins!. You can check out some of my works above!
+  I'm a Java programmer that 💕 to make plugins!. You can check out some of my works above!.<br>
+  <h1>Statistic</h1>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=droreo002&show_icons=true" />
 </a>
