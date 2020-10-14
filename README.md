@@ -6,7 +6,7 @@
 </p>
 
 ---
-I'm a Java programmer that 💕 to make plugins!. You can check out some of my works above!, you can also see my statistic below. Special thanks to anuraghazra for the app!  
+I'm a Java programmer that 💕 to make <a href="https://www.spigotmc.org/resources/authors/droreo002.416123/">plugins!</a>. You can check out some of my works above!, you can also see my statistic below. Special thanks to anuraghazra for the app!  
 
 <h2>🖖 Statistic</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
