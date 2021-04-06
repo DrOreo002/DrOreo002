@@ -6,7 +6,7 @@
 </p>
 
 ---
-I'm a Java programmer that 💕 to make <a href="https://www.spigotmc.org/resources/authors/droreo002.416123/">plugins!</a>. Below's statistic is provided by <a href="https://github.com/anuraghazra/github-readme-stats">this</a> amazing application by anuraghazra!  
+Full stack developer. I make plugins <a href="https://www.spigotmc.org/resources/authors/droreo002.416123/">too</a>. Statistic is provided by <a href="https://github.com/anuraghazra/github-readme-stats">this</a> amazing application by anuraghazra!  
 
 <h2>🖖 Statistic</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
