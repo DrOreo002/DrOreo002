@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm DrOreo002</h3>
 <p align="center">
-  I'm a Java, PHP & C++ programmer and the owner of a bot hosting company called "<strong>HydraX</strong>".
+  I'm a Java, PHP & C++ programmer and the owner of a game bot hosting company called "<strong>HydraX</strong>".
   
 </p>
 <p align="center">
