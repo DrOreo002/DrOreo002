@@ -5,7 +5,7 @@
 ☁  <a href="https://www.spigotmc.org/members/droreo002.416123/">Spigot Profile</a>
 🐱 <a href="https://karyakarsa.com/kamvret/" class="padding-left: 2em;">Github Profile Picture</a>
 ⛰  <a href="https://www.patreon.com/Kurzgesagt" class="padding-left: 2em;">Background Picture</a>
-
+<br>
 ## 📋 Profile
 
 Hey there, I'm DrOreo002, a 17yo guy from Bali 🏝 <br/><br/>I'm the owner of a hosting service called **HydraX** if you have any question about it please contact me via discord!
