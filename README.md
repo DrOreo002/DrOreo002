@@ -8,4 +8,4 @@
 <br>
 ## 📋 Profile
 
-Hey there, I'm DrOreo002, a 18yo guy from Bali 🏝 <br/><br/>I'm the owner of a hosting service called **HydraX** if you have any question about it please contact me via discord!
+Hey there, I'm DrOreo002, a 18yo guy from Bali 🏝 <br/><br/>
