@@ -8,4 +8,4 @@
 <br>
 ## 📋 Profile
 
-Hey there, I'm DrOreo002, a 18yo guy from Bali 🏝 <br/><br/>
+I code in Java & PHP, sometimes C++
