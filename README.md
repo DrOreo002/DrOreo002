@@ -1,11 +1,15 @@
-<img src="https://i.imgur.com/bX4zIRO.png"/>
+# Hi there 👋  
 
-<a href="https://discord.com/users/335988287913066498"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/335988287913066498?bg=23283d&borderRadius=8px"/></a>
+I'm **Anom Suryadinata**, 23 years old, living in the tropical island of **Bali** 🌴.  
+I love Coffee (Obviously) & I prefer it cold not by choice, but by climate (it can get quite hot in here, help)    
 
-☁  <a href="https://www.spigotmc.org/members/droreo002.416123/">Spigot Profile</a>
-🐱 <a href="https://karyakarsa.com/kamvret/" class="padding-left: 2em;">Github Profile Picture</a>
-⛰  <a href="https://www.patreon.com/Kurzgesagt" class="padding-left: 2em;">Background Picture</a>
-<br>
-## 📋 Profile
+I'm a **self-taught software engineer** who likes to poke around in many fields (sometimes they poke back with bugs 🐛):  
+- I've been writing coffee language **Java!** for 8+ years (mostly closed source so far, but I dream of open-sourcing in the future!)  
+- Also juggles in **Luau** (Roblox games), **JavaScript & PHP** (web stuff), and **Rust** (bevy & embedded programming)  
+- Have some hands-on experience with **microcontrollers** and **IoT projects**, I enjoy the coding part more than the soldering part  
 
-I code in Java & PHP, sometimes C++
+---
+
+🌐 Website: [**anomsuryadinata.dev**](https://anomsuryadinata.dev)  
+📨 LinkedIn: [**anomsuryadinata**](https://www.linkedin.com/in/anom-suryadinata-012396243/)  
+🐚 Spigot: [**droreo002**](https://www.spigotmc.org/members/droreo002.416123/) — *yes, I used to code Minecraft plugins (proud Spigot supporter ❤️)*  
