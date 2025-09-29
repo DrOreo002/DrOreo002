@@ -5,7 +5,7 @@ I love Coffee (Obviously) & I prefer it cold not by choice, but by climate (it c
 
 I'm a **self-taught software engineer** who likes to poke around in many fields (sometimes they poke back with bugs 🐛):  
 - I've been writing coffee language **Java!** for 8+ years (mostly closed source so far, but I dream of open-sourcing in the future!)  
-- Also juggles in **Luau** (Roblox games), **JavaScript & PHP** (web stuff), and **Rust** (bevy & embedded programming)  
+- Also juggles in **Luau** (Roblox games), **JavaScript & PHP** (web stuff), and **Rust** ([bevy](https://bevy.org/) & embedded programming)  
 - Have some hands-on experience with **microcontrollers** and **IoT projects**, I enjoy the coding part more than the soldering part  
 
 ---
